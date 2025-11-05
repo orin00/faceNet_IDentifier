@@ -6,10 +6,11 @@ from pathlib import Path
 from PIL import Image
 import json
 
+from django.conf import settings
+
 # 설정 및 초기화
-BASE_DIR_FACENET = Path('D:/facenet') 
-MODEL_DB_PATH = BASE_DIR_FACENET / 'model_db' / 'embeddings_db.npz'
-LABEL_JSON_PATH = BASE_DIR_FACENET / 'train_label.json' 
+MODEL_DB_PATH = settings.EMBEDDINGS_DB_PATH
+LABEL_JSON_PATH = settings.LABEL_JSON_PATH
 
 # 유클리드 임계값
 THRESHOLD = 1.0 

@@ -164,3 +164,9 @@ REST_FRAMEWORK = {
         'user': '1000/day', # (기존 설정 유지 가능)
     },
 }
+
+FACENET_ROOT = PROJECT_ROOT.parent
+
+EMBEDDINGS_DB_PATH = '/home/ubuntu/facenet-project/model_db/embeddings_db.npz'
+
+LABEL_JSON_PATH = '/home/ubuntu/facenet-project/train_label.json'
