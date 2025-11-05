@@ -1,0 +1,85 @@
+{
+    "image_file": "3.jpg",
+    "recognition_result": {
+        "status": "Success",
+        "detail": "얼굴 1 식별 완료 (musk)",
+        "faces": [
+            {
+                "face_id": 1,
+                "box": [
+                    335.1145324707031,
+                    135.6387176513672,
+                    651.470703125,
+                    552.1666870117188
+                ],
+                "person_id": "musk",
+                "min_distance": "0.469"
+            }
+        ]
+    },
+    "profile_data": {
+        "풀네임": "일론 머스크",
+        "영문명": "Elon Reeve Musk",
+        "국적": "미국 (출생: 남아프리카 공화국)",
+        "출생일": "1971-06-28",
+        "주요직업/소속": "Tesla, Inc. (CEO, 주요 주주)",
+        "키워드": [
+            "우주",
+            "전기차",
+            "AI",
+            "창업",
+            "재사용로켓"
+        ]
+    },
+    "raw_profile_data_structure": {
+        "full_name_ko": "일론 머스크",
+        "full_name_en": "Elon Reeve Musk",
+        "nationality": {
+            "country": "미국 (출생: 남아프리카 공화국)",
+            "state_city": "출생지: Pretoria, South Africa"
+        },
+        "residence": {
+            "country": "미국",
+            "state_city": "텍사스주(공장/시설 인근 거주 보도 이후 다양한 거주지 보도; 구체 주소는 공개되지 않음)"
+        },
+        "affiliations": [
+            "Tesla, Inc. (CEO, 주요 주주)",
+            "SpaceX (CEO/CTO, 주요 창업자)",
+            "xAI / X 관련 기업군 등 (주요 경영/창업 활동)"
+        ],
+        "timeline": {
+            "birth": "1971-06-28, Pretoria, South Africa",
+            "childhood": "프리토리아에서 성장; 컴퓨터·프로그램에 어린 시절 관심",
+            "education": "University of Pennsylvania (경제학·물리학 계열 학사 등)",
+            "early_career": "Zip2 공동 창업(1995) → Compaq에 매각 → X.com/PayPal 합병과 매각",
+            "turning_point": "2002년 SpaceX 설립 및 이후 민간 우주발사체 개발 성공; 2004년 테슬라 투자·참여로 전기차 산업 영향력 확대",
+            "major_achievements": "SpaceX의 재사용 로켓 상용화·민간우주선 성공; Tesla의 전기차 대중화; AI·재생에너지 관련 영향력",
+            "recent": "SpaceX·Tesla·xAI 등에서 활동 및 사업 확장; 공개 이벤트·정책 관련 논쟁 및 기업 주가 변동과 연동된 재산 변동 보고"
+        },
+        "milestones": [
+            {
+                "year": 1995,
+                "event": "Zip2 공동 창업"
+            },
+            {
+                "year": 2002,
+                "event": "SpaceX 설립"
+            },
+            {
+                "year": 2004,
+                "event": "Tesla에 합류(주요 투자자 이후 CEO 역할)"
+            },
+            {
+                "year": 2020,
+                "event": "우주·전기차·AI 분야에서 글로벌 영향력 확립"
+            }
+        ],
+        "keywords": [
+            "우주",
+            "전기차",
+            "AI",
+            "창업",
+            "재사용로켓"
+        ]
+    }
+}

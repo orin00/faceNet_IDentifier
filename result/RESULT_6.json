@@ -1,0 +1,83 @@
+{
+    "image_file": "6.jpg",
+    "recognition_result": {
+        "status": "Success",
+        "detail": "얼굴 1 식별 완료 (modi)",
+        "faces": [
+            {
+                "face_id": 1,
+                "box": [
+                    437.3240051269531,
+                    208.27479553222656,
+                    820.7100219726562,
+                    712.413330078125
+                ],
+                "person_id": "modi",
+                "min_distance": "0.511"
+            }
+        ]
+    },
+    "profile_data": {
+        "풀네임": "나렌드라 모디",
+        "영문명": "Narendra Damodardas Modi",
+        "국적": "인도",
+        "출생일": "1950-09-17",
+        "주요직업/소속": "인도 정부 (Prime Minister of India) — 인도 국민당(Bharatiya Janata Party) 소속",
+        "키워드": [
+            "정치",
+            "국가지도자",
+            "BJP",
+            "개발정책",
+            "외교"
+        ]
+    },
+    "raw_profile_data_structure": {
+        "full_name_ko": "나렌드라 모디",
+        "full_name_en": "Narendra Damodardas Modi",
+        "nationality": {
+            "country": "인도",
+            "state_city": "과거 출생지: Gujarat 주 Vadnagar"
+        },
+        "residence": {
+            "country": "인도",
+            "state_city": "뉴델리 (공식 거주지: 7, Lok Kalyan Marg — 총리 관저/사무소 복합)"
+        },
+        "affiliations": [
+            "인도 정부 (Prime Minister of India) — 인도 국민당(Bharatiya Janata Party) 소속"
+        ],
+        "timeline": {
+            "birth": "1950-09-17, Vadnagar, Bombay State (현재 Gujarat), 인도",
+            "childhood": "Vadnagar의 소규모 상업가정 출신; 어린 시절 가업(차가게) 보조 경험 등",
+            "education": "바드나가르 지역에서 중등교육 후 Gujarat 대학 계열의 인증·학위 관련 공개 자료(국내 교육 이력) — 학력 관련 공식 약력 참조",
+            "early_career": "RSS(국민봉사단) 활동을 거쳐 BJP 조직에서 활동, 정치적 경력 시작",
+            "turning_point": "2001년 Gujarat 주 수상이 되어 지역 발전 모델을 전면화; 2014년 총리 취임으로 전국적 리더로 부상",
+            "major_achievements": "2014년 및 2019년 총선 승리로 인도 총리직 수행; 다양한 국내·외 정책(경제·인프라·디지털화) 추진",
+            "recent": "총리로서 재직 중; 공식 일정·정책 집행 및 외교 활동 지속(공식 PMO/의회 프로필에 근거)"
+        },
+        "milestones": [
+            {
+                "year": 1950,
+                "event": "생년: Vadnagar 출생"
+            },
+            {
+                "year": 2001,
+                "event": "Gujarat 주 수상 취임"
+            },
+            {
+                "year": 2014,
+                "event": "인도 총리(Prime Minister) 첫 취임"
+            },
+            {
+                "year": 2019,
+                "event": "총리 재선"
+            }
+        ],
+        "keywords": [
+            "정치",
+            "국가지도자",
+            "BJP",
+            "개발정책",
+            "외교"
+        ]
+    }
+}

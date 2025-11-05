@@ -1,0 +1,243 @@
+{
+  "gates": {
+    "full_name_ko": "빌 게이츠",
+    "full_name_en": "William Henry Gates III",
+    "nationality": {
+      "country": "미국",
+      "state_city": "워싱턴주, 시애틀"
+    },
+    "residence": {
+      "country": "미국",
+      "state_city": "워싱턴주, Medina (메디나) / 시애틀 인근"
+    },
+    "affiliations": [
+      "Bill & Melinda Gates Foundation (co-founder / trustee)",
+      "Cascade Investment (투자회사)"
+    ],
+    "timeline": {
+      "birth": "1955-10-28, 시애틀(Seattle), 워싱턴주, 미국",
+      "childhood": "시애틀의 중상류층 가정에서 성장; Lakeside School 재학 중 프로그래밍·컴퓨팅에 관심",
+      "education": "하버드 대학교 재학(중퇴) — Paul Allen과 Microsoft 설립을 위해 중퇴",
+      "early_career": "1975년 Microsoft 공동 설립 (Paul Allen과), PC 소프트웨어 개발 및 라이선스 사업 전개",
+      "turning_point": "마이크로소프트의 DOS/Windows 성공으로 개인용 컴퓨팅 주류화 — Microsoft를 세계적 소프트웨어 기업으로 성장시킴",
+      "major_achievements": "Microsoft 공동창업 및 Windows 생태계 확산; Bill & Melinda Gates Foundation을 통한 글로벌 보건·교육 분야 대규모 자선활동",
+      "recent": "재단 중심의 자선활동 지속; 개인 재산 일부/투자 관리를 Cascade Investment 통해 수행. (거주지: Medina 소재 대형 주택 'Xanadu 2.0' 관련 공개 자료 존재)"
+    },
+    "milestones": [
+      {
+        "year": 1975,
+        "event": "Microsoft 공동 설립"
+      },
+      {
+        "year": 1985,
+        "event": "Windows 초기 버전 출시 및 확산 시작"
+      },
+      {
+        "year": 2000,
+        "event": "Microsoft CEO 자리에서 물러난 후 재단 활동 강화"
+      },
+      {
+        "year": 2000,
+        "event": "Bill & Melinda Gates Foundation 설립(사실상 재단 활동 집중)"
+      }
+    ],
+    "keywords": [
+      "소프트웨어",
+      "자선",
+      "Microsoft",
+      "보건",
+      "투자"
+    ]
+  },
+  "modi": {
+    "full_name_ko": "나렌드라 모디",
+    "full_name_en": "Narendra Damodardas Modi",
+    "nationality": {
+      "country": "인도",
+      "state_city": "과거 출생지: Gujarat 주 Vadnagar"
+    },
+    "residence": {
+      "country": "인도",
+      "state_city": "뉴델리 (공식 거주지: 7, Lok Kalyan Marg — 총리 관저/사무소 복합)"
+    },
+    "affiliations": [
+      "인도 정부 (Prime Minister of India) — 인도 국민당(Bharatiya Janata Party) 소속"
+    ],
+    "timeline": {
+      "birth": "1950-09-17, Vadnagar, Bombay State (현재 Gujarat), 인도",
+      "childhood": "Vadnagar의 소규모 상업가정 출신; 어린 시절 가업(차가게) 보조 경험 등",
+      "education": "바드나가르 지역에서 중등교육 후 Gujarat 대학 계열의 인증·학위 관련 공개 자료(국내 교육 이력) — 학력 관련 공식 약력 참조",
+      "early_career": "RSS(국민봉사단) 활동을 거쳐 BJP 조직에서 활동, 정치적 경력 시작",
+      "turning_point": "2001년 Gujarat 주 수상이 되어 지역 발전 모델을 전면화; 2014년 총리 취임으로 전국적 리더로 부상",
+      "major_achievements": "2014년 및 2019년 총선 승리로 인도 총리직 수행; 다양한 국내·외 정책(경제·인프라·디지털화) 추진",
+      "recent": "총리로서 재직 중; 공식 일정·정책 집행 및 외교 활동 지속(공식 PMO/의회 프로필에 근거)"
+    },
+    "milestones": [
+      {
+        "year": 1950,
+        "event": "생년: Vadnagar 출생"
+      },
+      {
+        "year": 2001,
+        "event": "Gujarat 주 수상 취임"
+      },
+      {
+        "year": 2014,
+        "event": "인도 총리(Prime Minister) 첫 취임"
+      },
+      {
+        "year": 2019,
+        "event": "총리 재선"
+      }
+    ],
+    "keywords": [
+      "정치",
+      "국가지도자",
+      "BJP",
+      "개발정책",
+      "외교"
+    ]
+  },
+  "jack": {
+    "full_name_ko": "마윈 (잭 마)",
+    "full_name_en": "Ma Yun (Jack Ma)",
+    "nationality": {
+      "country": "중국",
+      "state_city": "저장성 Hangzhou (항저우)"
+    },
+    "residence": {
+      "country": "중국",
+      "state_city": "항저우(공개 거주지 수준: 항저우 관련 공개 보도 존재)"
+    },
+    "affiliations": [
+      "Alibaba Group (공동 창업자, 현재 경영에서 물러난 상태이지만 창업자·이사회 관련 과거/명예적 연관)",
+      "Yunfeng Capital (설립자)"
+    ],
+    "timeline": {
+      "birth": "1964-09-10, Hangzhou, Zhejiang, 중국",
+      "childhood": "항저우에서 성장; 영어와 외국문화에 관심을 가지고 성장",
+      "education": "Hangzhou Normal University (영어 전공, 학사)",
+      "early_career": "영어 교사·무역 관련 초기 경력, 이후 인터넷 비즈니스로 전환",
+      "turning_point": "1999년 Alibaba 공동 창립 — 전자상거래 플랫폼으로 확장",
+      "major_achievements": "Alibaba를 중국을 대표하는 전자상거래 기업으로 성장시킴; Ant Group(핀테크) 설립·연계",
+      "recent": "중국 규제 완화 국면에서 점진적 활동 재개·투자 활동(재단·교육·투자) 보고"
+    },
+    "milestones": [
+      {
+        "year": 1999,
+        "event": "Alibaba 설립"
+      },
+      {
+        "year": 2014,
+        "event": "Alibaba의 NYSE 상장(대규모 IPO)"
+      },
+      {
+        "year": 2020,
+        "event": "중국 당국의 규제 강화로 공개 활동 축소"
+      }
+    ],
+    "keywords": [
+      "전자상거래",
+      "창업",
+      "핀테크",
+      "중국테크",
+      "투자"
+    ]
+  },
+  "musk": {
+    "full_name_ko": "일론 머스크",
+    "full_name_en": "Elon Reeve Musk",
+    "nationality": {
+      "country": "미국 (출생: 남아프리카 공화국)",
+      "state_city": "출생지: Pretoria, South Africa"
+    },
+    "residence": {
+      "country": "미국",
+      "state_city": "텍사스주(공장/시설 인근 거주 보도 이후 다양한 거주지 보도; 구체 주소는 공개되지 않음)"
+    },
+    "affiliations": [
+      "Tesla, Inc. (CEO, 주요 주주)",
+      "SpaceX (CEO/CTO, 주요 창업자)",
+      "xAI / X 관련 기업군 등 (주요 경영/창업 활동)"
+    ],
+    "timeline": {
+      "birth": "1971-06-28, Pretoria, South Africa",
+      "childhood": "프리토리아에서 성장; 컴퓨터·프로그램에 어린 시절 관심",
+      "education": "University of Pennsylvania (경제학·물리학 계열 학사 등)",
+      "early_career": "Zip2 공동 창업(1995) → Compaq에 매각 → X.com/PayPal 합병과 매각",
+      "turning_point": "2002년 SpaceX 설립 및 이후 민간 우주발사체 개발 성공; 2004년 테슬라 투자·참여로 전기차 산업 영향력 확대",
+      "major_achievements": "SpaceX의 재사용 로켓 상용화·민간우주선 성공; Tesla의 전기차 대중화; AI·재생에너지 관련 영향력",
+      "recent": "SpaceX·Tesla·xAI 등에서 활동 및 사업 확장; 공개 이벤트·정책 관련 논쟁 및 기업 주가 변동과 연동된 재산 변동 보고"
+    },
+    "milestones": [
+      {
+        "year": 1995,
+        "event": "Zip2 공동 창업"
+      },
+      {
+        "year": 2002,
+        "event": "SpaceX 설립"
+      },
+      {
+        "year": 2004,
+        "event": "Tesla에 합류(주요 투자자 이후 CEO 역할)"
+      },
+      {
+        "year": 2020,
+        "event": "우주·전기차·AI 분야에서 글로벌 영향력 확립"
+      }
+    ],
+    "keywords": [
+      "우주",
+      "전기차",
+      "AI",
+      "창업",
+      "재사용로켓"
+    ]
+  },
+  "trump": {
+    "full_name_ko": "도널드 트럼프",
+    "full_name_en": "Donald John Trump",
+    "nationality": {
+      "country": "미국",
+      "state_city": "출생지: 뉴욕주 Queens (Jamaica Hospital 근처)"
+    },
+    "residence": {
+      "country": "미국",
+      "state_city": "플로리다 주 Palm Beach (Mar-a-Lago) 등과 뉴욕(과거 거주지·자산 보유)"
+    },
+    "affiliations": [
+      "The Trump Organization (사업체 집단 — 핵심 자산·브랜드 관리)"
+    ],
+    "timeline": {
+      "birth": "1946-06-14, Jamaica Hospital, Queens, New York, USA",
+      "childhood": "뉴욕의 부유한 건설업자 가정에서 성장; 아버지 Fred Trump의 부동산 사업과 연관",
+      "education": "University of Pennsylvania (Wharton School, 학사)",
+      "early_career": "가업인 부동산 개발업(Trump Organization) 참여 및 대형 건물·호텔·카지노 사업 확장",
+      "turning_point": "1990~2000년대의 사업·브랜드 확장과 대중적 미디어 인지도 증대; 2016년 대선 승리로 정치 무대 진입",
+      "major_achievements": "2016년 미국 대통령(제45대) 당선 및 재임(2017-2021); 대형 부동산 포트폴리오·글로벌 브랜드 확장",
+      "recent": "정치·비즈니스 병행 활동 및 법적 분쟁/공시 이슈 존재(여러 미디어·공식 문서에 근거)"
+    },
+    "milestones": [
+      {
+        "year": 1971,
+        "event": "가업(Trump Organization) 경영 참여 시작"
+      },
+      {
+        "year": 2016,
+        "event": "미국 대통령 선거에서 승리 (제45대 대통령)"
+      },
+      {
+        "year": 2024,
+        "event": "대선 재출마 및 관련 공개 문서/소송/재정 공시 항목 다수 존재"
+      }
+    ],
+    "keywords": [
+      "정치",
+      "부동산",
+      "브랜드",
+      "미디어",
+      "대통령"
+    ]
+  }
+}

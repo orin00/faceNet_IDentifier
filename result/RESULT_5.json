@@ -1,0 +1,79 @@
+{
+    "image_file": "5.jpg",
+    "recognition_result": {
+        "status": "Success",
+        "detail": "얼굴 1 식별 완료 (trump)",
+        "faces": [
+            {
+                "face_id": 1,
+                "box": [
+                    273.817138671875,
+                    72.41915893554688,
+                    494.8399658203125,
+                    361.9195251464844
+                ],
+                "person_id": "trump",
+                "min_distance": "0.545"
+            }
+        ]
+    },
+    "profile_data": {
+        "풀네임": "도널드 트럼프",
+        "영문명": "Donald John Trump",
+        "국적": "미국",
+        "출생일": "1946-06-14",
+        "주요직업/소속": "The Trump Organization (사업체 집단 — 핵심 자산·브랜드 관리)",
+        "키워드": [
+            "정치",
+            "부동산",
+            "브랜드",
+            "미디어",
+            "대통령"
+        ]
+    },
+    "raw_profile_data_structure": {
+        "full_name_ko": "도널드 트럼프",
+        "full_name_en": "Donald John Trump",
+        "nationality": {
+            "country": "미국",
+            "state_city": "출생지: 뉴욕주 Queens (Jamaica Hospital 근처)"
+        },
+        "residence": {
+            "country": "미국",
+            "state_city": "플로리다 주 Palm Beach (Mar-a-Lago) 등과 뉴욕(과거 거주지·자산 보유)"
+        },
+        "affiliations": [
+            "The Trump Organization (사업체 집단 — 핵심 자산·브랜드 관리)"
+        ],
+        "timeline": {
+            "birth": "1946-06-14, Jamaica Hospital, Queens, New York, USA",
+            "childhood": "뉴욕의 부유한 건설업자 가정에서 성장; 아버지 Fred Trump의 부동산 사업과 연관",
+            "education": "University of Pennsylvania (Wharton School, 학사)",
+            "early_career": "가업인 부동산 개발업(Trump Organization) 참여 및 대형 건물·호텔·카지노 사업 확장",
+            "turning_point": "1990~2000년대의 사업·브랜드 확장과 대중적 미디어 인지도 증대; 2016년 대선 승리로 정치 무대 진입",
+            "major_achievements": "2016년 미국 대통령(제45대) 당선 및 재임(2017-2021); 대형 부동산 포트폴리오·글로벌 브랜드 확장",
+            "recent": "정치·비즈니스 병행 활동 및 법적 분쟁/공시 이슈 존재(여러 미디어·공식 문서에 근거)"
+        },
+        "milestones": [
+            {
+                "year": 1971,
+                "event": "가업(Trump Organization) 경영 참여 시작"
+            },
+            {
+                "year": 2016,
+                "event": "미국 대통령 선거에서 승리 (제45대 대통령)"
+            },
+            {
+                "year": 2024,
+                "event": "대선 재출마 및 관련 공개 문서/소송/재정 공시 항목 다수 존재"
+            }
+        ],
+        "keywords": [
+            "정치",
+            "부동산",
+            "브랜드",
+            "미디어",
+            "대통령"
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "image_file": "4.jpg",
+    "recognition_result": {
+        "status": "Success",
+        "detail": "얼굴 1 식별 완료 (gates)",
+        "faces": [
+            {
+                "face_id": 1,
+                "box": [
+                    214.6847686767578,
+                    72.37165832519531,
+                    412.25,
+                    331.54437255859375
+                ],
+                "person_id": "gates",
+                "min_distance": "0.531"
+            }
+        ]
+    },
+    "profile_data": {
+        "풀네임": "빌 게이츠",
+        "영문명": "William Henry Gates III",
+        "국적": "미국",
+        "출생일": "1955-10-28",
+        "주요직업/소속": "Bill & Melinda Gates Foundation (co-founder / trustee)",
+        "키워드": [
+            "소프트웨어",
+            "자선",
+            "Microsoft",
+            "보건",
+            "투자"
+        ]
+    },
+    "raw_profile_data_structure": {
+        "full_name_ko": "빌 게이츠",
+        "full_name_en": "William Henry Gates III",
+        "nationality": {
+            "country": "미국",
+            "state_city": "워싱턴주, 시애틀"
+        },
+        "residence": {
+            "country": "미국",
+            "state_city": "워싱턴주, Medina (메디나) / 시애틀 인근"
+        },
+        "affiliations": [
+            "Bill & Melinda Gates Foundation (co-founder / trustee)",
+            "Cascade Investment (투자회사)"
+        ],
+        "timeline": {
+            "birth": "1955-10-28, 시애틀(Seattle), 워싱턴주, 미국",
+            "childhood": "시애틀의 중상류층 가정에서 성장; Lakeside School 재학 중 프로그래밍·컴퓨팅에 관심",
+            "education": "하버드 대학교 재학(중퇴) — Paul Allen과 Microsoft 설립을 위해 중퇴",
+            "early_career": "1975년 Microsoft 공동 설립 (Paul Allen과), PC 소프트웨어 개발 및 라이선스 사업 전개",
+            "turning_point": "마이크로소프트의 DOS/Windows 성공으로 개인용 컴퓨팅 주류화 — Microsoft를 세계적 소프트웨어 기업으로 성장시킴",
+            "major_achievements": "Microsoft 공동창업 및 Windows 생태계 확산; Bill & Melinda Gates Foundation을 통한 글로벌 보건·교육 분야 대규모 자선활동",
+            "recent": "재단 중심의 자선활동 지속; 개인 재산 일부/투자 관리를 Cascade Investment 통해 수행. (거주지: Medina 소재 대형 주택 'Xanadu 2.0' 관련 공개 자료 존재)"
+        },
+        "milestones": [
+            {
+                "year": 1975,
+                "event": "Microsoft 공동 설립"
+            },
+            {
+                "year": 1985,
+                "event": "Windows 초기 버전 출시 및 확산 시작"
+            },
+            {
+                "year": 2000,
+                "event": "Microsoft CEO 자리에서 물러난 후 재단 활동 강화"
+            },
+            {
+                "year": 2000,
+                "event": "Bill & Melinda Gates Foundation 설립(사실상 재단 활동 집중)"
+            }
+        ],
+        "keywords": [
+            "소프트웨어",
+            "자선",
+            "Microsoft",
+            "보건",
+            "투자"
+        ]
+    }
+}

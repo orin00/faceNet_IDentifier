@@ -1,0 +1,22 @@
+{
+    "image_file": "8.jpg",
+    "recognition_result": {
+        "status": "Partial/Failure",
+        "detail": "식별된 인물 없음",
+        "faces": [
+            {
+                "face_id": 1,
+                "box": [
+                    221.27737426757812,
+                    34.44935607910156,
+                    376.6253967285156,
+                    244.16641235351562
+                ],
+                "person_id": "Unknown",
+                "min_distance": "1.109"
+            }
+        ]
+    },
+    "profile_data": null,
+    "raw_profile_data_structure": null
+}
