@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { FiRotateCw } from 'react-icons/fi';
 
-const API_URL = 'http://localhost:8000/api/recognize/';
+const API_URL = '/api/recognize/';
 
 // 타이핑 효과
 const TypingText = ({ text, speed = 10 }) => {
